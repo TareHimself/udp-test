@@ -1,0 +1,12 @@
+{
+  "name": "udp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "node ./client.js",
+    "server": "node ./server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
